@@ -38,7 +38,7 @@
    a. For e.g, https://dkube.sb.us.phcaa.science.reg.com/inference OR
    b. https://1.2.3.4:32222/#/dsinference
 5. Enter the following URL into the Model Serving URL box
-   https://dkube-proxy.dkube.svc
+   https://dkube-proxy.dkube
 6. Copy the token from ‘Developer Settings’ and paste into ‘Authorization Token’ box
 7. Select Model Type as ‘Regression’ on the next dropdown selection
 8. Click ‘Upload Image’ to load image from [A], ‘Upload File’ to load csv from [A]
