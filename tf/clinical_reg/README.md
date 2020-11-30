@@ -1,7 +1,7 @@
 # Regression demo complete pipeline run instructions.
 1. Download the pipeline tar file from the URL below, 
 2. For Dkube 2.1.6 or later use
-	https://github.com/oneconvergence/dkubeio-examples/blob/master/tf/clinical_reg/pipeline/dkube_regression_pl_full.tar.gz
+	https://github.com/oneconvergence/dkubeio-examples/blob/master/tf/clinical_reg/pipeline/dkube_regression_pl_full.tar.gz(https://github.com/oneconvergence/dkubeio-examples/blob/master/tf/clinical_reg/pipeline/dkube_regression_pl_full.tar.gz)*
 3. Upload the tar file into DKube from the pipeline page. 
 4. Open the pipeline and click create a run.
 5. Fill the details
@@ -11,7 +11,7 @@
        ii. Note there should not be any other character after the port no 32222.
     c. User: user name
         i. Login user, Eg: ocdkube 
-       ii. Git user Eg: riteshkarvaloc(github ID) in case of gitauth
+       ii. Git user Eg: ocdkube (github ID) in case of gitauth
     d. Auth token: Copy the auth token from developer settings and fill into the auth-token field
 6. Click on Create Run
 7. A test inference will be created by the pl, 
@@ -84,6 +84,7 @@
             Mount point : /opt/dkube/output
 
 ## Compile pipeline manually
+```
     a. Start the default dkube notebook from the IDE tab.
     b. Once running, click the jupyterlab icon to launch jupyterlab
     c. Go to the pipeline/components folder
@@ -97,4 +98,5 @@
     e. Run cells to generate the tar file. 
     f. Download the tar file by right-clicking on it.
     g. Upload the tar file into the DKube pipeline UI.
+```
 
