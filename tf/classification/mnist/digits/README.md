@@ -138,6 +138,7 @@ parameters:
       min: "100"
       max: "200"
 
+
 ```
 5. Upload this file and click *Submit* button.
 
@@ -165,7 +166,7 @@ parameters:
 3. Click *Experiments* sidemenu option.
 4. Click *Create an experiment* button and input a unique *experiment* name.
 5. Click *next* button it will auto display form to create a new *run*.
-6. Select the *pipeline* which was uploaded in *step 1*
+6. Select the *pipeline* which was uploaded in *step 2*
 7. Fill in the *Run Parameters* fields.
 
 ## How to use digits.py
