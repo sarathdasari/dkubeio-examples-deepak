@@ -16,7 +16,7 @@
  3. Select *Github* option.
  4. Enter a unique name say *mnist-pt*
  5. Paste link *[https://github.com/oneconvergence/dkubeio-examples-data/tree/master/pytorch
- ](https://github.com/oneconvergence/dkubeio-examples/tree/master/pytorch)* in the URL text box.
+ ](https://github.com/oneconvergence/dkubeio-examples-data/tree/master/pytorch)* in the URL text box.
  6. Click *Add Dataset* button.
  7. Dataset will be created and imported in Dkube. Progress of import can be seen.
  8. Please wait till status turns to *ready*.
