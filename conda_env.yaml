@@ -9,4 +9,3 @@ dependencies:
   - pip:
     - scikit-learn
     - kfserving
-    - tensorflow==1.15
