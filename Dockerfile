@@ -1,1 +1,1 @@
-FROM ocdr/dkube-datascience-tf-cpu:v2.0.0
+FROM docker.io/ocdr/dkube-datascience-preprocess:1.2
