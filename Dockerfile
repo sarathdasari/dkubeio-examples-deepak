@@ -1,1 +1,1 @@
-FROM docker.io/ocdr/dkube-datascience-preprocess:1.2
+FROM ocdr/dkube-datascience-rs-tf-cpu-multiuser:v1.14
