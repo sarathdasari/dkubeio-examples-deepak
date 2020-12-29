@@ -2,6 +2,6 @@ conda_env:
   path: conda_env.yaml
 
 docker_envs:
-   - ocdr/d3-datascience-sklearn:v0.23.2
+   - ocdr/custom-training:latest
 
 Dockerfile: Dockerfile
