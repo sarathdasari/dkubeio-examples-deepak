@@ -1,2 +1,1 @@
-conda_env: 
-path: conda_env.yaml
+docker_envs: ocdr/dkube-datascience-tf-cpu:v2.0.0
