@@ -1,1 +1,2 @@
-docker_envs: conda_env.yaml
+conda_env: 
+path: conda_env.yaml
