@@ -1,1 +1,1 @@
-FROM ocdr/dkube-datascience-preprocess:1.2
+FROM ocdr/d3-datascience-tf-cpu-multiuser:v1.14-5
