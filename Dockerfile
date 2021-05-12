@@ -1,1 +1,1 @@
-FROM ocdr/d3-datascience-sklearn:v0.23.2-5
+FROM ocdr/dkube-datascience-preprocess:1.2
