@@ -1,2 +1,1 @@
-conda_env:
-  path: can/conda_env.yaml
+Dockerfile: Dockerfile
