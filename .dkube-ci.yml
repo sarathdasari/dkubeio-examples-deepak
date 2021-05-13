@@ -1,2 +1,1 @@
-conda_env:
-  path: tf/conda_env.yaml
+Dockerfile: tf/Dockerfile
