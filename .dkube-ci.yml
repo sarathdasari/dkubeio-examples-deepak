@@ -1,2 +1,1 @@
-docker_envs:
-   - ocdr/custom-training:latest
+Dockerfile: Dockerfile
