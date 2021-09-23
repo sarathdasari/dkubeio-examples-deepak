@@ -1,2 +1,2 @@
-docker_envs:
-   - ocdr/custom-training:latest
+conda_env:
+  path: conda_env.yaml
